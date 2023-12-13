@@ -31,26 +31,39 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+![image](https://github.com/hughscode/osticket-prereqs/assets/147445518/f93981d0-89f9-40b1-8a60-f99c444b3f72)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open and creat an account to Microsoft Azure.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+
+
+
+
+Installation
+ ![image](https://github.com/hughscode/osticket-prereqs/assets/147445518/79359a46-895f-498d-9125-4b408fa59f95)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Then create a new resource group.
+  
+![image](https://github.com/hughscode/osticket-prereqs/assets/147445518/fe95473c-fb08-4316-b2f4-4a8a1dbfb42c)
+Configure the new resource groups settings such as Azure subscription, name and region of the newly created resource group.
+
+
+now its time to create a new virtual machine
+![image](https://github.com/hughscode/osticket-prereqs/assets/147445518/debf1236-2497-4175-a6ef-9294ff54fe08)
+
+
+Configure your virtual machines settings the hit create.
+
+![image](https://github.com/hughscode/osticket-prereqs/assets/147445518/d19968f3-ea49-464c-8c2e-7cbef8e7a6de)
+
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+<p>
+
 </p>
 <br />
