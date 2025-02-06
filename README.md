@@ -162,6 +162,30 @@ Default email (receives email from customers)
 (https://github.com/user-attachments/assets/885c0789-b0e9-4261-b09d-8d6d3c366e90)
 
 
+From the “osTicket-Installation-Files” folder, install HeidiSQL.
+Open Heidi SQL
+Create a new session, root/root
+Connect to the session
+Create a database called “osTicket”
+(https://github.com/user-attachments/assets/134ab3db-7a24-4c10-93d0-b659728e4733)
+(https://github.com/user-attachments/assets/56f7bf0c-5b44-4ae6-a532-0311cdba9ee2)
+
+
+Continue Setting up osTicket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: root
+Click “Install Now!”
+(https://github.com/user-attachments/assets/35ba890b-8af6-4c0f-bd86-17dcdc19e58a)
+(https://github.com/user-attachments/assets/002960a0-3b10-4ebf-963c-4100daf99e97)
+
+
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+(https://github.com/user-attachments/assets/61bbeeb8-64e8-4988-b4c3-b41e18b2564d)
+
+
+
+
 
 
 
