@@ -59,9 +59,11 @@ Configure your virtual machines settings the hit create.
 ![image](https://github.com/hughscode/osticket-prereqs/assets/147445518/d19968f3-ea49-464c-8c2e-7cbef8e7a6de)
 
 
+Imput username and password for virtual machine
+(https://github.com/user-attachments/assets/56edaf22-c36a-4741-9caf-632113d5baa2)
 <p>
   
 <p>
 
 </p>
-<br />
+<b
