@@ -60,8 +60,9 @@ Configure your virtual machines settings the hit create.
 
 
 Imput username and password for virtual machine
-(https://github.com/user-attachments/assets/56edaf22-c36a-4741-9caf-632113d5baa2)
-<p>
+
+<p>![Create a virtual machine](https://github.com/user-attachments/assets/cfd1c751-64c3-475b-b851-8f1a63c3dbb4)
+
   
 <p>
 
