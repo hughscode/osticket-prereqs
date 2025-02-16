@@ -4,12 +4,9 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket companies may use when distributing work out to its employees digitally.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -47,28 +44,28 @@ Installation
 2. Then create a new resource group.
   
  ![image](https://github.com/hughscode/osticket-prereqs/assets/147445518/fe95473c-fb08-4316-b2f4-4a8a1dbfb42c)
-Configure the new resource groups settings such as Azure subscription, name and region of the newly created resource group.
+Configure the new resource groups settings such as Azure subscription, name and region of the newly created resource group. make sure you upgrade your account to Pay-As-You-Go.
 
 
-3. now its time to create a new virtual machine
+3. now its time to create a new virtual machine go ahead and open the virtual machine section of Azure and clic on create to add a ne virtual machine to your account.
  ![image](https://github.com/hughscode/osticket-prereqs/assets/147445518/debf1236-2497-4175-a6ef-9294ff54fe08)
 
 
-4. Configure your virtual machines settings.
+4. Configure your virtual machines settings, making sure your region and image is to your liking.
 
 ![image](https://github.com/hughscode/osticket-prereqs/assets/147445518/d19968f3-ea49-464c-8c2e-7cbef8e7a6de)
 
 
-5. Imput username and password for virtual machine and click review + create.
+5. Imput username and password for virtual machine and click review + create. using something simple is always good (easy to remember).
 
 (https://github.com/user-attachments/assets/cfd1c751-64c3-475b-b851-8f1a63c3dbb4)
 
 
-6. Creat a new PC on Microsft Remote Desktop using the public IP address provided by the newly created virtual machine on Microft Azure
+6. Creat a new PC on Microsft Remote Desktop using the public IP address provided by the newly created virtual machine on Microft Azure.
 (https://github.com/user-attachments/assets/abbaffa2-6ced-421e-9d63-21689550c48f)
 
 
-7. Download and extract OsTicket intallation files from [
+7. Download and extract OsTicket intallation files to be able to install the program on the remote PC. [
 ](https://docs.google.com/document/d/1DyjX8LeVU98LjhXO2t2K2F0aHywI2N9GD57T3taO5qo/edit?pli=1&tab=t.0)
 
 (https://github.com/user-attachments/assets/58fd54ee-0434-482b-800d-31f49ed3ef9d)
