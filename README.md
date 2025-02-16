@@ -57,15 +57,15 @@ Configure the new resource groups settings such as Azure subscription, name and 
 
 
 5. Imput username and password for virtual machine and click review + create. using something simple is always good (easy to remember).
-
 (https://github.com/user-attachments/assets/cfd1c751-64c3-475b-b851-8f1a63c3dbb4)
+[
+](https://imgur.com/a/xjcgplH)
 
-
-6. Creat a new PC on Microsft Remote Desktop using the public IP address provided by the newly created virtual machine on Microft Azure.
+7. Creat a new PC on Microsft Remote Desktop using the public IP address provided by the newly created virtual machine on Microft Azure.
 (https://github.com/user-attachments/assets/abbaffa2-6ced-421e-9d63-21689550c48f)
 
 
-7. Download and extract OsTicket intallation files to be able to install the program on the remote PC. [
+8. Download and extract OsTicket intallation files to be able to install the program on the remote PC. [
 ](https://docs.google.com/document/d/1DyjX8LeVU98LjhXO2t2K2F0aHywI2N9GD57T3taO5qo/edit?pli=1&tab=t.0)
 
 (https://github.com/user-attachments/assets/58fd54ee-0434-482b-800d-31f49ed3ef9d)
